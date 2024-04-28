@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185022233524",
+    "project_id": "consultapp-admin-c5b13",
+    "storage_bucket": "consultapp-admin-c5b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185022233524:android:f716a77408131d774110e1",
+        "android_client_info": {
+          "package_name": "com.eferoy.Administrador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2GXwCsdSoJe35Tyeq03a6Z8wBWWZgTVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
